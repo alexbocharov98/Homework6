@@ -68,8 +68,7 @@ public class Main {
         for (int i = 1; i <= 10; i = i + 1) {
             System.out.println(number + "*" + i + "=" + number * i);
         }
-        //finish
-        System.out.println("finish");
+
 
     }
 }
